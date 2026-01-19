@@ -1,1 +1,6 @@
+Antihack.dll 4e0ccc64 2725376
+Main.exe 606a11bc 11002211
 Mu.Info 0072dc01 5115860
+Plugin.dll 9c74dc3c 96256
+Plugin.mu 08a7ac37 136
+Lua/Client_BuyPackage.enc 252a7a09 11346
