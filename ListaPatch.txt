@@ -1,6 +1,12 @@
 Antihack.dll 4e0ccc64 2725376
 Main.exe 606a11bc 11002211
-Mu.Info 0072dc01 5115860
+Mu.Info 146a2cc6 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
+Lua/Client_BuyPackage.enc 5ac5c77f 11346
 Lua/Client_BuyPackage.lua fa868285 11346
+Lua/DeviasGuildWar.Matrix 9c13a80a 10388
+Lua/JewelBank.Matrix fb9aab0b 17109
+Lua/WindowName.enc 1f8f343c 935
+Lua/System/ScriptCore.enc 0a1f7a32 3738
+Lua/System/ScriptDefines.enc 7e7ff57b 2228
