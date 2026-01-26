@@ -1,8 +1,15 @@
-Antihack.dll 4e0ccc64 2725376
+GamesWteam.dll 15feb40c 368640
+Main.dll aad7d88e 12024832
 Main.exe 606a11bc 11002211
+Matrix.dll 0246fd8b 94720
 Mu.Info 146a2cc6 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
+Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
+Data/Local/Por/itemtooltiptext_por.bmd d395a1a5 133124
+Data/Local/Spn/itemtooltiptext_spn.bmd d395a1a5 133124
+GameGuard/GameGuard.doc a8e66576 63488
+GameGuard/License.bmd 3edb1a35 20220
 Lua/Client_BuyPackage.enc 5ac5c77f 11346
 Lua/Client_BuyPackage.lua fa868285 11346
 Lua/DeviasGuildWar.Matrix 9c13a80a 10388
