@@ -3,7 +3,7 @@ GamesWteam.dll 15feb40c 368640
 Main.dll aad7d88e 12024832
 Main.exe 606a11bc 11002211
 Matrix.dll 0246fd8b 94720
-Mu.Info 00390200 5115860
+Mu.Info d24fe91b 5115860
 MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
