@@ -11,7 +11,7 @@ Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 3f10af44 52165
 Data/Local/Eng/Text_eng.bmd 8171056e 136318
 Data/Local/Por/itemtooltiptext_por.bmd d395a1a5 133124
-Data/Local/Por/Item_Por.bmd 3f10af44 52165
+Data/Local/Por/Item_por.bmd a260fdb7 688132
 Data/Local/Por/Text_por.bmd 8171056e 136318
 Data/Local/Spn/itemtooltiptext_spn.bmd d395a1a5 133124
 Data/Local/Spn/Item_spn.bmd 3f10af44 52165
