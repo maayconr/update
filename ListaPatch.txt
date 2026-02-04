@@ -9,13 +9,13 @@ Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
-Data/Local/Eng/Text_eng.bmd 37baffa8 136520
+Data/Local/Eng/Text_eng.bmd 34474779 136435
 Data/Local/Por/itemtooltiptext_por.bmd d395a1a5 133124
 Data/Local/Por/Item_por.bmd 9f8c09ff 688132
-Data/Local/Por/Text_por.bmd 37baffa8 136520
+Data/Local/Por/Text_Por.bmd 34474779 136435
 Data/Local/Spn/itemtooltiptext_spn.bmd d395a1a5 133124
 Data/Local/Spn/Item_spn.bmd 9f8c09ff 688132
-Data/Local/Spn/Text_spn.bmd 37baffa8 136520
+Data/Local/Spn/Text_spn.bmd 34474779 136435
 GameGuard/GameGuard.doc a8e66576 63488
 GameGuard/License.bmd 3edb1a35 20220
 Lua/Client_BuyPackage.enc 5ac5c77f 11346
