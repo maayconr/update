@@ -7,6 +7,8 @@ Mu.Info a395953a 5115860
 MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
+Data/Mix.bmd 37113f78 66968
+Data/Local/mix.bmd da135710 66968
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
 Data/Local/Eng/Text_eng.bmd 34474779 136435
