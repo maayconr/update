@@ -1,5 +1,8 @@
 Antihack.dll 4e0ccc64 2725376
 GamesWteam.dll 15feb40c 368640
+IBSCategory.txt 9fb5f898 626
+IBSPackage.txt 68add6cf 13305
+IBSProduct.txt bc268f00 23089
 Main.dll aad7d88e 12024832
 Main.exe 606a11bc 11002211
 Matrix.dll 0246fd8b 94720
@@ -8,6 +11,9 @@ MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
 Data/Mix.bmd 37113f78 66968
+Data/InGameShopScript/512.2011.006/IBSCategory.txt 9fb5f898 626
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 68add6cf 13305
+Data/InGameShopScript/512.2011.006/IBSProduct.txt bc268f00 23089
 Data/Local/mix.bmd da135710 66968
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
