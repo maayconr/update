@@ -12,8 +12,8 @@ Plugin.dll 9c74dc3c 96256
 Plugin.mu 08a7ac37 136
 Data/Mix.bmd 37113f78 66968
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 9fb5f898 626
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 2eb26f34 13477
-Data/InGameShopScript/512.2011.006/IBSProduct.txt bc268f00 23089
+Data/InGameShopScript/512.2011.006/IBSPackage.txt d845f418 14189
+Data/InGameShopScript/512.2011.006/IBSProduct.txt acab1729 23362
 Data/Local/mix.bmd da135710 66968
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
