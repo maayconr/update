@@ -26,7 +26,7 @@ Data/Local/Spn/movereq_spn.bmd c7f729b7 2440
 Data/Local/Spn/Text_spn.bmd 4f182279 136204
 GameGuard/GameGuard.doc a8e66576 63488
 GameGuard/License.bmd 3edb1a35 20220
-Lua/Client_BuyPackage.enc 5ac5c77f 11346
+Lua/Client_BuyPackage.enc 81b1be28 4231
 Lua/Client_BuyPackage.lua fa868285 11346
 Lua/DeviasGuildWar.Matrix 9c13a80a 10388
 Lua/JewelBank.Matrix fb9aab0b 17109
