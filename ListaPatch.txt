@@ -1,9 +1,9 @@
 Antihack.dll 4e0ccc64 2725376
 GamesWteam.dll 15feb40c 368640
-Main.dll aad7d88e 12024832
+Main.dll d82aa6ea 14777856
 Main.exe 606a11bc 11002211
 Matrix.dll 0246fd8b 94720
-Mu.Info fac9173d 5115860
+Mu.Info 45fad0a4 7755876
 MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu abc88bb0 136
@@ -11,6 +11,7 @@ Data/Mix.bmd 37113f78 66968
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 57d4b005 214
 Data/InGameShopScript/512.2011.006/IBSPackage.txt 956de5a0 13478
 Data/InGameShopScript/512.2011.006/IBSProduct.txt bc268f00 23089
+Data/Interface/NewRender/InvasionCounter.ozt 893cc91c 614448
 Data/Local/mix.bmd da135710 66968
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
@@ -31,5 +32,5 @@ Lua/Client_BuyPackage.lua fa868285 11346
 Lua/DeviasGuildWar.Matrix 9c13a80a 10388
 Lua/JewelBank.Matrix fb9aab0b 17109
 Lua/WindowName.enc 1f8f343c 935
-Lua/System/ScriptCore.enc 0a1f7a32 3738
+Lua/System/ScriptCore.enc 2a527cc5 3951
 Lua/System/ScriptDefines.enc 7e7ff57b 2228
