@@ -1,12 +1,12 @@
-Antihack.dll 4e0ccc64 2725376
 GamesWteam.dll 15feb40c 368640
 Main.dll d82aa6ea 14777856
 Main.exe 606a11bc 11002211
 Matrix.dll 0246fd8b 94720
-Mu.Info 45fad0a4 7755876
+Mu.Info dab5d985 7755876
 MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu abc88bb0 136
+Xor.dll 8a129fd1 598808
 Data/Mix.bmd 37113f78 66968
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 57d4b005 214
 Data/InGameShopScript/512.2011.006/IBSPackage.txt 956de5a0 13478
@@ -34,3 +34,5 @@ Lua/JewelBank.Matrix fb9aab0b 17109
 Lua/WindowName.enc 1f8f343c 935
 Lua/System/ScriptCore.enc 2a527cc5 3951
 Lua/System/ScriptDefines.enc 7e7ff57b 2228
+Xor_Plus/Settings/tga.ozn 867dedba 20792
+Xor_Plus/Splash/SplashPack.enc 9f5cee4f 2672475
