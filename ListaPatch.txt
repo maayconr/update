@@ -1908,10 +1908,8 @@ Data/World7/rain03.OZT 9308bacb 4144
 Data/World7/Terrain.map 764a5e67 196609
 Data/World7/Terrain.obj bf8f819d 44673
 Data/World7/Terrain7.att 0003b17a 65539
-Data/World7/TerrainHeight.ozb 0162e90a 66618
 Data/World7/TerrainLight.bmp cfd12647 196664
 Data/World7/TerrainLight.jpg 7ff54f6a 14016
-Data/World7/TerrainLight.ozb 16d98351 196668
 Data/World7/TerrainLight.ozj 23367add 14040
 Data/World7/TileGrass01.jpg c25e270f 110604
 Data/World7/TileGrass01.OZJ 16b45aa4 110628
