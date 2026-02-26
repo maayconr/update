@@ -1910,7 +1910,6 @@ Data/World7/Terrain.obj bf8f819d 44673
 Data/World7/Terrain7.att 0003b17a 65539
 Data/World7/TerrainLight.bmp cfd12647 196664
 Data/World7/TerrainLight.jpg 7ff54f6a 14016
-Data/World7/TerrainLight.ozj 23367add 14040
 Data/World7/TileGrass01.jpg c25e270f 110604
 Data/World7/TileGrass01.OZJ 16b45aa4 110628
 Data/World7/TileGrass01.OZT 229f730e 65584
