@@ -10,8 +10,8 @@ Xor.dll 8a129fd1 598808
 Data/Mix.bmd 37113f78 66968
 Data/World7.rar 82aa92bf 2286829
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 57d4b005 214
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 956de5a0 13478
-Data/InGameShopScript/512.2011.006/IBSProduct.txt bc268f00 23089
+Data/InGameShopScript/512.2011.006/IBSPackage.txt c9fb3008 13704
+Data/InGameShopScript/512.2011.006/IBSProduct.txt 9d65d59c 23189
 Data/Interface/NewRender/InvasionCounter.ozt 893cc91c 614448
 Data/Interface/Scripts/BPImg.ozt b17b9ebe 273288
 Data/Interface/Scripts/BPImgICO.ozt 0e40be93 40048
