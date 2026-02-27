@@ -2,7 +2,7 @@ GamesWteam.dll 15feb40c 368640
 Main.dll d82aa6ea 14777856
 Main.exe 606a11bc 11002211
 Matrix.dll 0246fd8b 94720
-Mu.Info 1497f55c 7755876
+Mu.Info 43bf59a7 7755876
 MuB.Info 05f4cbf7 5115860
 Plugin.dll 9c74dc3c 96256
 Plugin.mu abc88bb0 136
@@ -173,15 +173,15 @@ Data/Local/mix.bmd da135710 66968
 Data/Local/Eng/itemtooltiptext_eng.bmd d395a1a5 133124
 Data/Local/Eng/Item_eng.bmd 9f8c09ff 688132
 Data/Local/Eng/movereq_eng.bmd 066958df 2524
-Data/Local/Eng/Text_eng.bmd 4f182279 136204
+Data/Local/Eng/Text_eng.bmd 07b3edd9 136228
 Data/Local/Por/itemtooltiptext_por.bmd d395a1a5 133124
 Data/Local/Por/Item_por.bmd 9f8c09ff 688132
 Data/Local/Por/movereq_por.bmd 066958df 2524
-Data/Local/Por/Text_por.bmd 4f182279 136204
+Data/Local/Por/Text_por.bmd 07b3edd9 136228
 Data/Local/Spn/itemtooltiptext_spn.bmd d395a1a5 133124
 Data/Local/Spn/Item_spn.bmd 9f8c09ff 688132
 Data/Local/Spn/movereq_spn.bmd 066958df 2524
-Data/Local/Spn/Text_spn.bmd 4f182279 136204
+Data/Local/Spn/Text_spn.bmd 07b3edd9 136228
 Data/Object151/black.ozj bec3974f 33421
 Data/Object151/BosBB.OZJ bb6f1aee 36990
 Data/Object151/dark.OZJ 872183de 47039
