@@ -1489,7 +1489,7 @@ Data/Object7/potal_groundred01.ozt 3cf0463f 262192
 Data/Object7/potal_groundred02.ozt aafc8487 262192
 Data/Object7/PrimeFlag.ozt 3922852a 524336
 Data/Object7/runeword_r.OZJ 742087ea 18100
-Data/Object7/Saida.ozt 6283fafb 128022
+Data/Object7/saida.ozt 6283fafb 128022
 Data/Object7/Sea3BadakShodow_R.OZJ 22dad613 100595
 Data/Object7/Sea3flower01.OZT 0fdbd19a 65584
 Data/Object7/Sea3flower02.OZT ec7e9183 262192
