@@ -1687,8 +1687,6 @@ Data/World151/TileRock05.OZJ 302e93ef 107595
 Data/World151/TileRock07.OZJ 505c9656 114954
 Data/World151/TileWater01.OZJ 3e6f136c 108892
 Data/World151/TileWood01.OZJ 3c1640d9 109853
-Data/World152/.att 1a7c5ac0 65540
-Data/World152/.obj 44db10c9 214
 Data/World152/back.ozj 2179209f 78290
 Data/World152/bkcloud.OZJ b748a68f 10298
 Data/World152/bkmoon.OZJ 3cb3089a 9036
@@ -1761,8 +1759,6 @@ Data/World153/TileRock05.OZJ 302e93ef 107595
 Data/World153/TileRock07.OZJ 505c9656 114954
 Data/World153/TileWater01.OZJ 3e6f136c 108892
 Data/World153/TileWood01.OZJ 3c1640d9 109853
-Data/World154/.att 1a7c5ac0 65540
-Data/World154/.obj 44db10c9 214
 Data/World154/back.ozj 3249433f 73143
 Data/World154/bkcloud.OZJ b748a68f 10298
 Data/World154/bkmoon.OZJ 3cb3089a 9036
