@@ -1,4 +1,4 @@
 Main.exe 606a11bc 11002211
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 59619170 154
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 95af41b4 12444
-Data/InGameShopScript/512.2011.006/IBSProduct.txt 86725822 20420
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 35230010 12433
+Data/InGameShopScript/512.2011.006/IBSProduct.txt d29ba11a 19538
