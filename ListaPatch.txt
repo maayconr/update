@@ -3,7 +3,13 @@ Mu.Info b0a8cdba 7755876
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 29054c1b 54
 Data/InGameShopScript/512.2011.006/IBSPackage.txt 4985b401 13153
 Data/InGameShopScript/512.2011.006/IBSProduct.txt 4028f073 21288
+Data/Local/Eng/movereq_eng.bmd 2b53cba8 2524
+Data/Local/Eng/movereq_eng.txt 62c6ff91 1402
 Data/Local/Eng/Text_eng.bmd 8e00f381 136410
+Data/Local/Por/movereq_por.bmd 2b53cba8 2524
+Data/Local/Por/movereq_por.txt 62c6ff91 1402
 Data/Local/Por/Text_por.bmd 8e00f381 136410
+Data/Local/Spn/movereq_spn.bmd 2b53cba8 2524
+Data/Local/Spn/movereq_spn.txt 62c6ff91 1402
 Data/Local/Spn/Text_spn.bmd 8e00f381 136410
 Lua/WindowName.enc 9728d1ff 925
