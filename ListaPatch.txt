@@ -1,8 +1,8 @@
 Main.exe 606a11bc 11002211
 Mu.Info b0a8cdba 7755876
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 39737932 54
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 1fbf4a62 13625
-Data/InGameShopScript/512.2011.006/IBSProduct.txt 5f107810 21751
+Data/InGameShopScript/512.2011.006/IBSPackage.txt da0cc9ed 13627
+Data/InGameShopScript/512.2011.006/IBSProduct.txt d1e5dbc8 21757
 Data/Local/Eng/movereq_eng.bmd 79666bb6 2440
 Data/Local/Eng/movereq_eng.txt 19eb6a08 1404
 Data/Local/Eng/Text_eng.bmd 8e00f381 136410
