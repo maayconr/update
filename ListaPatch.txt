@@ -197,7 +197,7 @@ Data/Local/Spn/Item_spn.bmd 910f41df 688132
 Data/Local/Spn/movereq_spn.bmd 79666bb6 2440
 Data/Local/Spn/movereq_spn.txt 19eb6a08 1404
 Data/Local/Spn/Text_spn.bmd d6661bd5 136204
-Lua/Main.enc a8253a4c 107019
+Lua/Main.enc acc82aaa 107019
 Lua/WindowName.enc 9728d1ff 925
 Lua/LoaD/Start.enc 121e81f8 88
 Lua/LoaD/Config/BossDamageSystemConfig.enc 07818b5f 441
