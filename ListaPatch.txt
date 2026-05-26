@@ -203,6 +203,6 @@ Lua/LoaD/Start.enc 121e81f8 88
 Lua/LoaD/Config/BossDamageSystemConfig.enc 07818b5f 441
 Lua/LoaD/Config/ColorConfig.enc 5dc4e129 1748
 Lua/LoaD/Config/GeneralConfig.enc 3deee543 3524
+Lua/LoaD/Core/clientkey.txt c20db478 24
 Lua/LoaD/Core/core.dll 1c260fdd 16928256
 Lua/LoaD/Core/Core.sol efc82cbb 179212
-Lua/LoaD/Core/_clientkey.txt c20db478 24
