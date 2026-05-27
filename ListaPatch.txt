@@ -1,5 +1,5 @@
 Main.exe 606a11bc 11002211
-Mu.Info 946c7e9e 7755876
+Mu.Info a89d67b5 7755876
 Data/Custom/Item/MagicBox04.bmd c31e705b 11971
 Data/Custom/Item/poket.OZJ b25d00bb 7238
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 39737932 54
