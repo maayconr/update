@@ -1987,6 +1987,10 @@ Lua/Client_BuyPackage.enc 81b1be28 4231
 Lua/DeviasGuildWar.Matrix 9c13a80a 10388
 Lua/JewelBank.Matrix fb9aab0b 17109
 Lua/Main.enc a8253a4c 107019
+Lua/NewHUDCustom.lua 79c6a140 16280
+Lua/NewHUDDiablo.lua 2904bde7 14049
+Lua/NewHUDEx700.lua 6b2d179b 16257
+Lua/NewHUDMatrix.lua 0350d07e 12061
 Lua/WindowName.enc 9728d1ff 925
 Lua/LoaD/Start.enc 121e81f8 88
 Lua/LoaD/Config/BossDamageSystemConfig.enc 07818b5f 441
