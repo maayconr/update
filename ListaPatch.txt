@@ -1995,6 +1995,5 @@ Lua/LoaD/Config/GeneralConfig.enc 3deee543 3524
 Lua/LoaD/Core/clientkey.txt c20db478 24
 Lua/LoaD/Core/core.dll 1c260fdd 16928256
 Lua/LoaD/Core/Core.sol efc82cbb 179212
-Lua/LoaD/Core/_clientkey c20db478 24
 Lua/System/ScriptCore.enc 2ff1d1e9 4875
 Lua/System/ScriptDefines.enc 7e7ff57b 2228
