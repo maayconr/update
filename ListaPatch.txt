@@ -1,9 +1,9 @@
-dmoprotect.dll 94b522af 4785488
+dmoprotect.dll b30bce64 4923224
 license.lic 4664ff39 320
 Main.dll 47ede5a8 15001600
 Main.exe 606a11bc 11002211
 Matrix.dll d27f96e5 94208
-Mu.Info e517ec0f 768612
+Mu.Info fdcaf861 768612
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 Data/Custom/Item/MagicBox04.bmd c31e705b 11971
@@ -2033,8 +2033,8 @@ Data/World7/TileRock07.OZJ fa649314 87239
 Data/World7/TileRock07.OZT 08873a10 262192
 Data/World7/TileWater01.OZJ 2dfd04df 87373
 Data/World7/TileWood01.OZJ 16fae487 40743
-dmosys/dmoprotect.exe d459cdff 4233040
-dmosys/dmoprotect32.exe c080f6bd 3262288
+dmosys/dmoprotect.exe bc40fe51 4245328
+dmosys/dmoprotect32.exe e8cc83a3 3800400
 Lua/Client_BuyPackage.enc 81b1be28 4231
 Lua/DeviasGuildWar.Matrix 9c13a80a 10388
 Lua/JewelBank.Matrix fb9aab0b 17109
