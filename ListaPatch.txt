@@ -1,7 +1,7 @@
 Main.dll 47ede5a8 15001600
 Main.exe 606a11bc 11002211
 Matrix.dll d27f96e5 94208
-Mu.Info c209ef57 768612
+Mu.Info b08cb9fc 768612
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 Data/Custom/Item/MagicBox04.bmd c31e705b 11971
