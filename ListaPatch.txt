@@ -3,7 +3,7 @@ license.lic 325256b7 320
 Main.dll 47ede5a8 15001600
 Main.exe 606a11bc 11002211
 Matrix.dll d27f96e5 94208
-Mu.Info 7fc8d560 768612
+Mu.Info 1b6fd9ce 768612
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 dmosys/dmoprotect.exe e488e053 4194136
