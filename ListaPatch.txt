@@ -6,6 +6,9 @@ Matrix.dll d27f96e5 94208
 Mu.Info d54cca9e 1014458
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
+Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 1d9086f9 12415
+Data/InGameShopScript/512.2011.006/IBSProduct.txt 9996dc2b 20867
 Data/Interface/NewRender/Loading/01_Back_01.jpg 22ff1714 261193
 Data/Interface/NewRender/Loading/01_Back_01.ozj fa9c2048 261217
 Data/Interface/NewRender/Loading/01_Back_02.jpg d8f49f75 266366
