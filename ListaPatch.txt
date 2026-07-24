@@ -1,5 +1,5 @@
 dmoprotect.dll 42feb7ad 4836184
-license.lic 325256b7 320
+license.lic e929c346 320
 Main.dll 9663d46e 5000192
 Main.exe 0ce66d0a 11002211
 Matrix.dll 9d082359 99840
