@@ -1,9 +1,9 @@
 dmoprotect.dll 42feb7ad 4836184
 license.lic e929c346 320
-Main.dll fed6b425 5000192
+Main.dll 512e4b2d 5000192
 Main.exe 0ce66d0a 11002211
 Matrix.dll 9d082359 99840
-Mu.Info 9be9a6c1 1014458
+Mu.Info 0022508d 1014458
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 dmosys/dmoprotect.exe e488e053 4194136
