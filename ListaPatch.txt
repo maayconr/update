@@ -9,7 +9,7 @@ wzManager.dll e2322b2e 117248
 Data/Mix.bmd 6b3053a5 66968
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt c9d769fb 146
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 7dc07ea5 12416
+Data/InGameShopScript/512.2011.006/IBSPackage.txt e26b7039 12462
 Data/InGameShopScript/512.2011.006/IBSProduct.txt dd86bb2e 20861
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
