@@ -6,5 +6,10 @@ Matrix.dll 9d082359 99840
 Mu.Info 0022508d 1014458
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
+Data/Mix.bmd 6b3053a5 66968
+Data/InGameShopBanner/583.2010.005/IBSBanner.txt c9d769fb 146
+Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 7dc07ea5 12416
+Data/InGameShopScript/512.2011.006/IBSProduct.txt dd86bb2e 20861
 dmosys/dmoprotect.exe e488e053 4194136
 dmosys/dmoprotect32.exe 464de4c8 3651920
