@@ -3,10 +3,10 @@ license.lic e929c346 320
 Main.dll 512e4b2d 5000192
 Main.exe 0ce66d0a 11002211
 Matrix.dll 9d082359 99840
-Mu.Info 0022508d 1014458
+Mu.Info 3f9152ab 1014458
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
-Data/Mix.bmd 6b3053a5 66968
+Data/Mix.bmd f68ed68f 66968
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt c9d769fb 146
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
 Data/InGameShopScript/512.2011.006/IBSPackage.txt e26b7039 12462
