@@ -8,9 +8,13 @@ Mu.Info ee4d9286 1014458
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 Data/Mix.bmd f68ed68f 66968
-Data/InGameShopBanner/583.2010.005/IBSBanner.txt c9d769fb 146
+Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg 72c4b05a 31414
+Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ 412cc981 31438
+Data/InGameShopBanner/583.2010.005/IBSBanner.txt 60059a04 101
+Data/InGameShopBanner/583.2010.005/lojax.jpg 997b41bc 39533
+Data/InGameShopBanner/583.2010.005/lojax.ozj f763643c 39557
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
-Data/InGameShopScript/512.2011.006/IBSPackage.txt e26b7039 12462
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 9f5ff2bd 12462
 Data/InGameShopScript/512.2011.006/IBSProduct.txt dd86bb2e 20861
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
