@@ -18,12 +18,12 @@ Data/InGameShopScript/512.2011.006/IBSPackage.txt 9f5ff2bd 12462
 Data/InGameShopScript/512.2011.006/IBSProduct.txt dd86bb2e 20861
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
-Data/Local/Eng/text_eng.bmd ff4da08b 136398
+Data/Local/Eng/text_eng.bmd 8470b3a3 136362
 Data/Local/Por/BuffEffect_por.bmd e301e629 24972
 Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
-Data/Local/Por/text_por.bmd ff4da08b 136398
+Data/Local/Por/text_por.bmd 8470b3a3 136362
 Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
 Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
-Data/Local/Spn/text_spn.bmd ff4da08b 136398
+Data/Local/Spn/text_spn.bmd 8470b3a3 136362
 dmosys/dmoprotect.exe e488e053 4194136
 dmosys/dmoprotect32.exe 464de4c8 3651920
