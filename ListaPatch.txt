@@ -27,3 +27,4 @@ Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
 Data/Local/Spn/text_spn.bmd 8470b3a3 136362
 dmosys/dmoprotect.exe e488e053 4194136
 dmosys/dmoprotect32.exe 464de4c8 3651920
+Lua/ShowNames.enc 47d6744c 584
