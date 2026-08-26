@@ -226,13 +226,13 @@ Data/Interface/Scripts/Parts/tooltip_black08.ozt 993fe1e6 304
 Data/Interface/Scripts/Parts/tooltip_black09.ozt 61909ab1 304
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
-Data/Local/Eng/text_eng.bmd 76e0ddb8 136379
+Data/Local/Eng/text_eng.bmd 9019bc0d 136362
 Data/Local/Por/BuffEffect_por.bmd e301e629 24972
 Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
-Data/Local/Por/text_por.bmd 76e0ddb8 136379
+Data/Local/Por/text_por.bmd 9019bc0d 136362
 Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
 Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
-Data/Local/Spn/text_spn.bmd 76e0ddb8 136379
+Data/Local/Spn/text_spn.bmd 9019bc0d 136362
 dmosys/dmoprotect.exe e5a0661f 4262736
 dmosys/dmoprotect32.exe cc97eed2 3679064
 Lua/Main.enc 6a1b48a7 105933
