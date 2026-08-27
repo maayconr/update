@@ -226,7 +226,7 @@ Data/Interface/Scripts/Parts/tooltip_black08.ozt 993fe1e6 304
 Data/Interface/Scripts/Parts/tooltip_black09.ozt 61909ab1 304
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
-Data/Local/Eng/text_eng.bmd 9019bc0d 136362
+Data/Local/Eng/text_eng.bmd 70ce69db 124295
 Data/Local/Por/BuffEffect_por.bmd e301e629 24972
 Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
 Data/Local/Por/text_por.bmd 9019bc0d 136362
