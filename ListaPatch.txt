@@ -14,7 +14,7 @@ Data/InGameShopBanner/583.2010.005/IBSBanner.txt 60059a04 101
 Data/InGameShopBanner/583.2010.005/lojax.jpg 997b41bc 39533
 Data/InGameShopBanner/583.2010.005/lojax.ozj f763643c 39557
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 099f1b16 53
-Data/InGameShopScript/512.2011.006/IBSPackage.txt e1d1d508 13079
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 6de06d50 13079
 Data/InGameShopScript/512.2011.006/IBSProduct.txt 13ff986b 21048
 Data/Interface/Scripts/BossDamageSystem/Bar_1.ozt 71ad704f 32816
 Data/Interface/Scripts/BossDamageSystem/Bar_2.ozt da9260cb 203120
