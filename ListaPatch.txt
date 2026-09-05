@@ -1,13 +1,15 @@
 dmoprotect.dll 27f4dcbe 4939088
 license.lic 14e6694d 320
-Main.dll 512e4b2d 5000192
+Main.dll 1c99a973 5011296
 Main.exe 0ce66d0a 11002211
 Main.ico 259740c3 67646
 Matrix.dll 9d082359 99840
-Mu.Info 2d1d5caa 1037990
+Mu.Info 66de0ce9 1037990
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 Data/Mix.bmd f68ed68f 66968
+Data/Custom/Monster/Dummy1.bmd 015362da 168154
+Data/Custom/Monster/Dummy1.ozj f51b9014 64036
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg 72c4b05a 31414
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ 412cc981 31438
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt 60059a04 101
