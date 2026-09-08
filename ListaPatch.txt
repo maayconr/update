@@ -235,6 +235,7 @@ Data/Local/Por/text_por.bmd 9019bc0d 136362
 Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
 Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
 Data/Local/Spn/text_spn.bmd 9019bc0d 136362
+Data/Player/Player.bmd 7d56fceb 3324834
 dmosys/dmoprotect.exe e5a0661f 4262736
 dmosys/dmoprotect32.exe cc97eed2 3679064
 Lua/Main.enc 6a1b48a7 105933
