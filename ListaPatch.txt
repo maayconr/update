@@ -6,7 +6,7 @@ Main.dll 963240f0 5011296
 Main.exe 2b7da76c 7370080
 Main.ico 259740c3 67646
 Matrix.dll 9d082359 99840
-Mu.Info ae071c15 1037420
+Mu.Info a18bbd55 1037420
 Plugin.mu abc88bb0 136
 wzManager.dll e2322b2e 117248
 Data/loginscreen.exi 534b4b58 15796444
