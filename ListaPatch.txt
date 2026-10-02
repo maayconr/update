@@ -479,13 +479,13 @@ Data/Interface2/StatsDL.ozj 6a35cd42 88047
 Data/Interface2/win_push.OZJ 27ae54f9 10843
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
-Data/Local/Eng/text_eng.bmd fb2c6e68 136539
+Data/Local/Eng/text_eng.bmd 13643b45 136538
 Data/Local/Por/BuffEffect_por.bmd e301e629 24972
 Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
-Data/Local/Por/text_por.bmd fb2c6e68 136539
+Data/Local/Por/text_por.bmd 13643b45 136538
 Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
 Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
-Data/Local/Spn/text_spn.bmd fb2c6e68 136539
+Data/Local/Spn/text_spn.bmd 13643b45 136538
 Data/NewHud/Custom/newui_menu01.ozt cccc8f23 524310
 Data/NewHud/Custom/newui_menu02.ozt 21df2a6a 524310
 Data/NewHud/Custom/newui_menu03.ozt c3558494 102422
