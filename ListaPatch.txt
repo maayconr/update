@@ -2670,7 +2670,6 @@ Data/World7/TileWood01.OZJ 16fae487 40743
 dmosys/dmoprotect.exe 752c414e 4326224
 dmosys/dmoprotect32.exe 75f6304b 3756368
 Lua/Main.enc 6a1b48a7 105933
-Lua/ShowNames.enc 47d6744c 584
 Lua/LoaD/Start.enc 7deb57ed 306
 Lua/LoaD/Config/BossDamageSystemConfig.enc 7a7079a1 3644
 Lua/LoaD/Config/DungeonSystemConfig.enc b77dbd20 4396
