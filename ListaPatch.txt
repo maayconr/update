@@ -1,1 +1,13 @@
+Main.exe dfdd94c9 7489888
 Main.ico 259740c3 67646
+Mu.Info eac1a6bb 1037576
+Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
+Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
+Data/Local/Eng/text_eng.bmd a541d8b5 136533
+Data/Local/Por/BuffEffect_por.bmd e301e629 24972
+Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
+Data/Local/Por/text_por.bmd a541d8b5 136533
+Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
+Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
+Data/Local/Spn/text_spn.bmd a541d8b5 136533
+Lua/WindowName.enc 16625e9a 891
