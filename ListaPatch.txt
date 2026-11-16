@@ -1,6 +1,7 @@
 Main.exe dfdd94c9 7489888
 Main.ico 259740c3 67646
 Mu.Info eac1a6bb 1037576
+Data/Local/ServerList.bmd 54d0dbf8 162
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
 Data/Local/Eng/text_eng.bmd 79f831ca 136524
