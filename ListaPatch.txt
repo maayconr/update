@@ -1,5 +1,8 @@
 Main.exe 0561d3f9 7544672
 Mu.Info 91451b72 1037576
+Data/InGameShopScript/512.2011.006/IBSCategory.txt 472609f4 408
+Data/InGameShopScript/512.2011.006/IBSPackage.txt defd041a 11651
+Data/InGameShopScript/512.2011.006/IBSProduct.txt c42fe5eb 17357
 Data/Interface/NewRender/Loading/01_Back_01.ozj 08aacb40 230453
 Data/Interface/NewRender/Loading/01_Back_02.ozj e5fadd91 249047
 Data/Local/ServerList.bmd 54d0dbf8 162
