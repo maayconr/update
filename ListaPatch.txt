@@ -2,6 +2,15 @@ dmoprotect.dll 3aeb643e 4961104
 license.lic 71c2c953 320
 Main.ico f920f014 156211
 Mu.Info 74de5657 1037712
+Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
+Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
+Data/Local/Eng/text_eng.bmd 4f3fad08 136443
+Data/Local/Por/BuffEffect_por.bmd e301e629 24972
+Data/Local/Por/itemtooltiptext_por.bmd 8fbab3a6 133124
+Data/Local/Por/text_por.bmd 4f3fad08 136443
+Data/Local/Spn/BuffEffect_spn.bmd e301e629 24972
+Data/Local/Spn/itemtooltiptext_spn.bmd 8fbab3a6 133124
+Data/Local/Spn/text_spn.bmd 4f3fad08 136443
 dmosys/dmoprotect.exe 854c26e6 4376912
 dmosys/dmoprotect32.exe 441abc97 3455312
 Lua/JewelBank.enc bcb53c2f 15216
