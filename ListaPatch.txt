@@ -1,3 +1,7 @@
+dmoprotect.dll 3aeb643e 4961104
+license.lic 71c2c953 320
 Main.ico f920f014 156211
-Mu.Info 7f6120f1 1037712
+Mu.Info 74de5657 1037712
+dmosys/dmoprotect.exe 854c26e6 4376912
+dmosys/dmoprotect32.exe 441abc97 3455312
 Lua/JewelBank.enc bcb53c2f 15216
