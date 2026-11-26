@@ -2,6 +2,9 @@ dmoprotect.dll 3aeb643e 4961104
 license.lic 71c2c953 320
 Main.ico f920f014 156211
 Mu.Info 33337a46 1037724
+Data/InGameShopScript/512.2011.006/IBSCategory.txt f7f8dbdf 380
+Data/InGameShopScript/512.2011.006/IBSPackage.txt d6600dec 11296
+Data/InGameShopScript/512.2011.006/IBSProduct.txt 35b3c9d7 17269
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
 Data/Local/Eng/text_eng.bmd 697cee26 136464
