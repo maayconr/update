@@ -1,7 +1,7 @@
 dmoprotect.dll 3aeb643e 4961104
 license.lic 71c2c953 320
 Main.ico f920f014 156211
-Mu.Info 74de5657 1037712
+Mu.Info 33337a46 1037724
 Data/Local/Eng/BuffEffect_eng.bmd e301e629 24972
 Data/Local/Eng/itemtooltiptext_eng.bmd 8fbab3a6 133124
 Data/Local/Eng/text_eng.bmd 697cee26 136464
